@@ -1,0 +1,42 @@
+body{
+	background-image: url("sfondo.jpg");
+}
+h1{
+	color: white;
+	background:black;
+	padding: 10px ;
+	margin-top:60px;
+	margin-bottom: 25px;
+	margin-left:300px;
+	margin-right:300px;
+	text-align: center;
+	
+}
+li{	
+	color:black;
+	background: white;
+	text-align:center;
+	margin-left:200px;
+	margin-right:200px;
+	padding: 10px;
+	
+}
+h2{
+	color:black;
+	background: white;
+	text-align:center;
+	margin-left:400px;
+	margin-right:400px;
+	padding: 10px;
+	border-style:groove;
+}
+img{
+	float:right;
+	width: 280px;
+}
+p{
+	background:white;
+	margin: 30px;
+	padding: 20px;
+	margin-right: 300px;
+}
